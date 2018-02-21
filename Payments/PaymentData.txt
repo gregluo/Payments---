@@ -1,0 +1,7 @@
+{
+  "BSB": "233",
+  "AccountNumber": "333",
+  "AccountName": "433",
+  "Reference": "",
+  "PaymentAmount": ""
+}
